@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43700#The-Quiver-Annual-Volume-10-1899
 gutenberg_issued: '2013-09-12'
 gutenberg_type: Text
 identifiers:
